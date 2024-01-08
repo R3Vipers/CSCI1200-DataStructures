@@ -1,0 +1,1069 @@
+Matching documents: 
+
+3.09287Title: Wikipedia
+URL: html_files/file2.html
+Description: Tom and Jerry
+Snippet: For the titular characters, see Tom Cat and Jerry Mouse. Tom and Jerry is an American animated media franchise and serie
+
+2.3781Title: Amazon
+URL: html_files/subdir1/subdir2/subdir3/file10.html
+Description: Watch Tom and Jerry: The Complete First Volume - Amazon
+Snippet: In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings. 
+
+2.21842Title: Wikipedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/file16.html
+Description: Tom Cruise - Wikipedia
+Snippet: Thomas Cruise Mapother IV (born July 3, 1962), known professionally as Tom Cruise, is an American actor. One of the worl
+
+1.66702Title: CBS Sports
+URL: html_files/subdir1/subdir2/subdir3/file9.html
+Description: Tom Brady on coming out of retirement again: 'I wouldn't be...
+Snippet: Tom Brady Tom Brady on coming out of retirement again: 'I wouldn't be around by tonight'. Brady joked that he isn't goin
+
+1.38454Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Mission: Impossible - Dead Reckoning Part One is another showcase for Tom Cruise's incredible action movie star qualitie
+
+1.33198Title: Warner Bros.
+URL: html_files/subdir1/subdir2/subdir3/file8.html
+Description: Tom & Jerry | Movies
+Snippet: “Tom and Jerry” is one of the leading franchises in the Warner Bros. One of the most beloved rivalries in history is
+
+1.22718Title: The Kennedy Center
+URL: html_files/subdir1/subdir2/file7.html
+Description: Tom Hanks Biography
+Snippet: When Reader's Digest did a poll in 2013 to find out who are the 100 Most Trusted People in America, Tom Hanks came out a
+
+0.853721Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: In an interview with Playboy in 2012, Tom Cruise described Katie Holmes as “an extraordinary person” with a “wonde
+
+0.730634Title: Bleacher Report
+URL: html_files/file1.html
+Description: Tom Brady - Tampa Bay Buccaneers Quarterback
+Snippet: The New York Jets did not make a call to Tom Brady after Aaron Rodgers was lost for the season to a torn Achilles, sourc
+
+Matching documents: 
+
+10.9544Title: Apple Music
+URL: html_files/subdir1/subdir2/subdir3/subdir5/file15.html
+Description: Lady Gaga
+Snippet: But for Lady Gaga—one of popular culture's greatest, most extravagant creations—the inauthenticity is the point.
+   
+
+6.61948Title: Apple
+URL: html_files/subdir1/subdir2/subdir3/subdir4/file12.html
+Description: CNN: Breaking US & World News 12+ - App Store
+Snippet: Stay informed on breaking news with the global newsgathering power of CNN. CNN has correspondents and bureaus reporting 
+
+6.49595Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Boston University is a leading private research institution with two primary campuses in the heart of Boston and program
+
+6.11906Title: Maroon 5
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file22.html
+Description: Maroon 5: Home
+Snippet: Emails will be sent by or on behalf of Universal Music Group 2220 Colorado Avenue, Santa Monica , CA 90404 (310) 865-400
+
+3.72271Title: Google Play
+URL: html_files/subdir1/subdir2/subdir3/subdir5/file14.html
+Description: CNN Breaking US & World News - Apps on Google Play
+Snippet: Enjoy a 10-minute preview of live CNN coverage each day. Log in with your TV provider for unlimited viewing.
+
+Data rates
+
+0.333333Title: StatueOfLibertyTickets.com
+URL: html_files/subdir1/subdir2/file6.html
+Description: Statue of Liberty Tickets, Ellis Island Tickets, Statue of Liberty...
+Snippet: Visit the Statue of Liberty National Monument and Ellis Island Immigration Museum. Ferry
+service to both Liberty and Ell
+
+0.333333Title: Amazon
+URL: html_files/subdir1/subdir2/subdir3/file10.html
+Description: Watch Tom and Jerry: The Complete First Volume - Amazon
+Snippet: Available to buy
+	S1 E16 - The Flying Sorceress
+
+January 11, 1952
+7min
+ALL
+Tom steals a witch's flying broom so he can s
+
+0.333333Title: Warner Bros.
+URL: html_files/subdir1/subdir2/subdir3/file8.html
+Description: Tom & Jerry | Movies
+Snippet: “Tom and Jerry” is one of the leading franchises in the Warner Bros. One of the most beloved rivalries in history is
+
+0.333333Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: html</h1>
+Not only does this make many of the movie's stunts and his physical performance all that more special, but com
+
+0.333333Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: Pinson's G League rights were traded (on Friday) from the Maine Celtics (G League affiliate of the Boston Celtics) to th
+
+0.333333Title: Wikipedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/file16.html
+Description: Tom Cruise - Wikipedia
+Snippet: One of the world's highest-paid actors, ...
+    Tom Cruise
+    Tom Brady
+    Cruise ships are large passenger ships used
+
+0.291667Title: Bleacher Report
+URL: html_files/file1.html
+Description: Tom Brady - Tampa Bay Buccaneers Quarterback
+Snippet: For the better part of the past 20 years, legions of Patriots fans lived by the mantra "In Bill We Trust." With Belichic
+
+0.291667Title: Wikipedia
+URL: html_files/file2.html
+Description: Tom and Jerry
+Snippet: Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna 
+
+0.291667Title: The Vogue
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file26.html
+Description: Maroon 5
+Snippet: The Port of Los Angeles is America's Port®, the nation's #1 container port and global model for sustainability, securit
+
+0.166667Title: Ellis Island Foundation
+URL: html_files/subdir1/subdir2/subdir3/subdir4/file13.html
+Description: Liberty 135 | Statue of Liberty & Ellis Island
+Snippet: Since 1982, The Statue of Liberty-Ellis Island Foundation has partnered with the 
+National Park Service to care for one 
+
+0.166667Title: National Geographic Kids
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file18.html
+Description: Statue of Liberty
+Snippet: On July 4, 1884 France presented the United States with an incredible birthday gift: the
+Statue of Liberty! Without its 
+
+0.166667Title: CBS Sports
+URL: html_files/subdir1/subdir2/subdir3/file9.html
+Description: Tom Brady on coming out of retirement again: 'I wouldn't be...
+Snippet: Tom Brady Tom Brady on coming out of retirement again: 'I wouldn't be around by tonight'. Brady joked that he isn't goin
+
+0.166667Title: The Kennedy Center
+URL: html_files/subdir1/subdir2/file7.html
+Description: Tom Hanks Biography
+Snippet: It's no surprise that the much-beloved star of such hits as Big, Forrest Gump, Castaway, and Toy Story is one of the mos
+
+0.166667Title: GRAMMY.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file19.html
+Description: Lady Gaga | Artist
+Snippet: The album featured a pair of No. 1 singles: "Just Dance" and "Poker Face."
+Gaga won her first two GRAMMYs at the 52nd GR
+
+0.125Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: Liberty Mutual Group is an American diversified global insurer and the sixth-largest property and casualty insurer in th
+
+0.125Title: Instagram
+URL: html_files/subdir1/subdir2/file5.html
+Description: Lady Gaga (@ladygaga) • Instagram photos and videos
+Snippet: At Liberty University, you can tailor your associate, bachelor’s, master’s, or doctoral degree to match your area of
+
+0.125Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: A leading research institution in the heart of #Boston. Follow us to hear about all things BU! : social@bu.edu | Communi
+
+0.125Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up t
+
+1.34078e-09Title: CNN.com
+URL: html_files/index.html
+Description: CNN: Breaking News, Latest News and Videos
+Snippet: Marty's
+How dogs cry for help: 3 warning signs to watch
+IN THE SPOTLIGHT
+Pete Davidson delivered moving remarks in the o
+
+Your search - Statue of Liberty- did not match any documents.Your search - Statue of Liberty - did not match any documents.Your search - Boston Celtics - did not match any documents.Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Matching documents: 
+
+3.67708Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Check out full game highlights from the Celtics' 123-110 preseason win over the New York Knicks.
+	Kristaps Porzingis, Jr
+
+3.64673Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.46683Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: Sports: Patriots - Red Sox - Celtics - Bruins - New England Revolution - ...
+Local News: Stay up to date with Boston.com
+
+2.27643Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+1.70427Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.49553Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+1.21525Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+0.899607Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Your search - "BostonCeltics" - did not match any documents.Your search - "Boston Celtics"  - did not match any documents.Matching documents: 
+
+6.62679Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+2.83232Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+2.65773Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+2.26383Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+2.19882Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+1.50718Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: News: Stay up to date with Boston.com coverage of News. Sports: Patriots - Red Sox - Celtics - Bruins - New England Revo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+Your search - BostonBoston - did not match any documents.Your search - BostonCeltics - did not match any documents.Your search - BostonCeltics - did not match any documents.Your search - boston - did not match any documents.Your search - boston - did not match any documents.Your search - boston - did not match any documents.Your search - boston - did not match any documents.Your search - boston - did not match any documents.Your search - boston - did not match any documents.Your search - boston - did not match any documents.Your search - boston - did not match any documents.Matching documents: 
+
+7.28903Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Sam Cassell and Charles Lee Bring to the Boston Celtics Myles Turner Bojan Bogdanovic Bogdan Bogdanovic Nick Richar
+
+3.13314Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+2.49685Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
+2.41536Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+1.63761Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+1.62467Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+Matching documents: 
+
+4.562Title: Boston University
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file25.html
+Description: Boston University: Homepage
+Snippet: Let us help you plan your vacation or meeting and discover everything Boston MA has to offer. Boston University is a lea
+
+4.35366Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: Boston University, Boston, Massachusetts. 387601 likes · 5379 talking about this. Welcome to Boston University. Boston 
+
+3.97785Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+2.85714Title: Boston.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/file24.html
+Description: Boston.com: Local breaking news, sports, weather, and things ...
+Snippet: What Boston cares about right now: Get breaking updates on news, sports, and weather. Local alerts, things to do, and mo
+
+1.31154Title: Screen Rant
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file23.html
+Description: Tom Cruise's Age In Mission Impossible 7 Is A Shocking ...
+Snippet: Boston Celtics rookie Jordan Walsh is already working toward earning the trust of his teammates weeks ahead of the 2023-
+
+0.979Title: The New York Times
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file27.html
+Description: My Impossible Mission to Find Tom Cruise
+Snippet: The Boston Celtics and Dallas Mavericks G League affiliates have made a trade. Pinson's G League rights were traded (on 
+
+0.877034Title: Sports Illustrated
+URL: html_files/subdir1/file3.html
+Description: Celtics Hire Former Knicks Coach - Sports Illustrated
+Snippet: In Jeff Van Gundy, the Boston Celtics added a consultant with 11 years of experience as an NBA head coach. Former New Yo
+
+0.791339Title: ESPN
+URL: html_files/subdir1/subdir2/file4.html
+Description: Boston Celtics 2023-24 NBA Roster
+Snippet: Boston Celtics Roster 2023-24 More NBA Teams Team Roster NAME POS AGE HT WT COLLEGE SALARY https://a.espncdn.com/i/heads
+
+0.749212Title: Expedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file20.html
+Description: Top Hotels in Troy, NY from $55
+Snippet: The Boston Celtics are a National Basketball Association team that plays in the Eastern Conference. The Celtics have won
+
