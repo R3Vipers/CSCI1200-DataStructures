@@ -1,0 +1,3 @@
+C:/Users/Ryan Ames/CLionProjects/HW8/cmake-build-debug/CMakeFiles/HW8.dir
+C:/Users/Ryan Ames/CLionProjects/HW8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ryan Ames/CLionProjects/HW8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
