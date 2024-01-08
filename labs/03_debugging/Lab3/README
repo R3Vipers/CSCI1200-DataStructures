@@ -1,0 +1,15 @@
+road.cpp
+
+line 23: the algorithms class has not been included in the project, which is causing an error
+line 38: unsigned ints will always be positive or zero therefor i>0 will always be true
+line 17: returning a reference to a local variable. While it will not stop the program from running it is still
+dangerous and should be fixed
+
+point.cpp
+
+line 23: double answer is unused. It should be the return value, but another calculation is in  its place.
+
+line.cpp
+
+line 25: gradient * -1; does not do anything and should be rewritten as gradient *= -1;
+line 3: #include "point.h" shows a warning, because the headers do not have end-if directives
